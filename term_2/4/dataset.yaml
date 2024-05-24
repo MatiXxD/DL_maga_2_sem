@@ -1,0 +1,8 @@
+train: ./images/train
+val: ./images/val
+
+train_labels: ./labels/train
+val_labels: ./labels/val
+
+nc: 2
+names: ["normal", "pneumonia"]
